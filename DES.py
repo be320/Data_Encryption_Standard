@@ -16,3 +16,6 @@ keys = keys_generator(key)
 cipher = encrypt(plainText, keys, 1, num)
 
 print(cipher)
+print()
+print()
+k = input("DES Algorithm implemented by Ahmed Bahaa")

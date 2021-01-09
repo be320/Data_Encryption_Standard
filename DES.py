@@ -1,4 +1,5 @@
 from encrypt import encrypt
+from decrypt import decrypt
 from key_generation import keys_generator
 
 print("Please Enter The key: ")
